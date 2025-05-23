@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaDiscord } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -30,12 +30,12 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://discord.gg/Y2QzqDTx"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
               >
-                <FaLinkedinIn />
+                <FaDiscord />
               </a>
             </li>
           </ul>

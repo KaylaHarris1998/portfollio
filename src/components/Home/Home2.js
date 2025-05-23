@@ -5,7 +5,7 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaDiscord } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -54,12 +54,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://discord.gg/Y2QzqDTx"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <FaLinkedinIn />
+                  <FaDiscord />
                 </a>
               </li>
             </ul>
