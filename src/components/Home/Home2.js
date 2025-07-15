@@ -17,7 +17,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I'm a passionate <b className="purple">Full Stack Developer</b> from Kuala Lumpur, Malaysia, driven by a love for coding and solving real-world problems through technology.
+            I am a passionate <b className="purple">Full Stack Developer</b> from Kuala Lumpur, Malaysia, driven by a love for coding and solving real-world problems through technology.
               <br />
               <br />
               With strong expertise in <b className="purple">Next.js</b>, <b className="purple">Node.js</b>, and modern JavaScript frameworks like <b className="purple">React.js</b>, I build <b className="purple">scalable, efficient, and user-centric web applications</b> from front to back.
